@@ -32,7 +32,16 @@ My focus is on building secure, scalable, and business-aligned AI systems across
 
 * [Claude Code Skills](https://github.com/rajbsingh/claude-code-skills)
   A personal collection of Claude Code skills, AI productivity workflows, and reusable prompt systems.
+## Featured AI Repositories
 
+| Repository | Focus |
+|---|---|
+| [Claude Code Skills](https://github.com/rajbsingh/claude-code-skills) | Claude Code skills, AI productivity prompts, and reusable workflows |
+| [JurixAI Product Blueprint](https://github.com/rajbsingh/jurixai-product-blueprint) | Product blueprint for JurixAI, an AI Legal Assistant for lawyers, SMEs, and legal teams |
+| [Enterprise AI Architecture Patterns](https://github.com/rajbsingh/enterprise-ai-architecture-patterns) | GenAI, RAG, agentic AI, cloud, data, and enterprise AI architecture patterns |
+| [AI Governance Playbook](https://github.com/rajbsingh/ai-governance-playbook) | Responsible AI, AI risk, governance, human-in-the-loop, and enterprise controls |
+| [Agentic AI Workflows](https://github.com/rajbsingh/agentic-ai-workflows) | Practical AI agent and multi-agent workflow patterns |
+| [AI MVP Frameworks](https://github.com/rajbsingh/ai-mvp-frameworks) | Frameworks for planning, validating, and building AI SaaS MVPs |
 ---
 
 ## Current AI Product Focus
@@ -65,25 +74,3 @@ UNS Technology focuses on AI transformation, AI SaaS products, enterprise AI arc
 * Website: https://unstechnology.com
 * Personal Site: https://rajsingh.cloud
 * AI Prompts: https://aiprompts.company
-
-## Featured AI Repositories
-
-## Featured AI Repositories
-
-| Repository | Focus |
-|---|---|
-| [Claude Code Skills](https://github.com/rajbsingh/claude-code-skills) | Claude Code skills, AI productivity prompts, and reusable workflows |
-| [JurixAI Product Blueprint](https://github.com/rajbsingh/jurixai-product-blueprint) | Product blueprint for JurixAI, an AI Legal Assistant for lawyers, SMEs, and legal teams |
-| [Enterprise AI Architecture Patterns](https://github.com/rajbsingh/enterprise-ai-architecture-patterns) | GenAI, RAG, agentic AI, cloud, data, and enterprise AI architecture patterns |
-| [AI Governance Playbook](https://github.com/rajbsingh/ai-governance-playbook) | Responsible AI, AI risk, governance, human-in-the-loop, and enterprise controls |
-| [Agentic AI Workflows](https://github.com/rajbsingh/agentic-ai-workflows) | Practical AI agent and multi-agent workflow patterns |
-| [AI MVP Frameworks](https://github.com/rajbsingh/ai-mvp-frameworks) | Frameworks for planning, validating, and building AI SaaS MVPs |
-
-| Repository | Focus |
-|---|---|
-| [Claude Code Skills](https://github.com/rajbsingh/claude-code-skills) | Claude Code skills, AI productivity prompts, and reusable workflows |
-| [JurixAI Product Blueprint](https://github.com/rajbsingh/jurixai-product-blueprint) | Product blueprint for JurixAI, an AI Legal Assistant for lawyers, SMEs, and legal teams |
-| [Enterprise AI Architecture Patterns](https://github.com/rajbsingh/enterprise-ai-architecture-patterns) | GenAI, RAG, agentic AI, cloud, data, and enterprise AI architecture patterns |
-| [AI Governance Playbook](https://github.com/rajbsingh/ai-governance-playbook) | Responsible AI, AI risk, governance, human-in-the-loop, and enterprise controls |
-| [Agentic AI Workflows](https://github.com/rajbsingh/agentic-ai-workflows) | Practical AI agent and multi-agent workflow patterns |
-| [AI MVP Frameworks](https://github.com/rajbsingh/ai-mvp-frameworks) | Frameworks for planning, validating, and building AI SaaS MVPs |
