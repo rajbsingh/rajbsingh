@@ -32,12 +32,12 @@ My focus is on building secure, scalable, and business-aligned AI systems across
 
 | Repository | Focus |
 |---|---|
-* [Claude Code Skills](https://github.com/rajbsingh/claude-code-skills) | Claude Code skills, AI productivity prompts, and reusable workflows |
-* [JurixAI Product Blueprint](https://github.com/rajbsingh/jurixai-product-blueprint) | Product blueprint for JurixAI, an AI Legal Assistant for lawyers, SMEs, and legal teams |
-* [Enterprise AI Architecture Patterns](https://github.com/rajbsingh/enterprise-ai-architecture-patterns) | GenAI, RAG, agentic AI, cloud, data, and enterprise AI architecture patterns |
-* [AI Governance Playbook](https://github.com/rajbsingh/ai-governance-playbook) | Responsible AI, AI risk, governance, human-in-the-loop, and enterprise controls |
-* [Agentic AI Workflows](https://github.com/rajbsingh/agentic-ai-workflows) | Practical AI agent and multi-agent workflow patterns |
-* [AI MVP Frameworks](https://github.com/rajbsingh/ai-mvp-frameworks) | Frameworks for planning, validating, and building AI SaaS MVPs |
+| [Claude Code Skills](https://github.com/rajbsingh/claude-code-skills) | Claude Code skills, AI productivity prompts, and reusable workflows |
+| [JurixAI Product Blueprint](https://github.com/rajbsingh/jurixai-product-blueprint) | Product blueprint for JurixAI, an AI Legal Assistant for lawyers, SMEs, and legal teams |
+| [Enterprise AI Architecture Patterns](https://github.com/rajbsingh/enterprise-ai-architecture-patterns) | GenAI, RAG, agentic AI, cloud, data, and enterprise AI architecture patterns |
+| [AI Governance Playbook](https://github.com/rajbsingh/ai-governance-playbook) | Responsible AI, AI risk, governance, human-in-the-loop, and enterprise controls |
+| [Agentic AI Workflows](https://github.com/rajbsingh/agentic-ai-workflows) | Practical AI agent and multi-agent workflow patterns |
+| [AI MVP Frameworks](https://github.com/rajbsingh/ai-mvp-frameworks) | Frameworks for planning, validating, and building AI SaaS MVPs |
 ---
 
 ## Current AI Product Focus
