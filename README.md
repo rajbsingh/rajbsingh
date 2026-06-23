@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Dr. Raj Singh 👋
 
-<!--
-**rajbsingh/rajbsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Transformation Advisor | GenAI Consultant | Founder, UNS Technology
 
-Here are some ideas to get you started:
+I help organizations adopt AI through AI strategy, training, consulting, governance, and MVP implementation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m Building
+
+- JurixAI — AI Legal Assistant for lawyers, SMEs, and legal teams
+- UNS Technology — AI SaaS, enterprise AI, and agentic AI products
+- AI education books and practical AI adoption frameworks
+
+## Focus Areas
+
+- Generative AI
+- Agentic AI and AI Agents
+- Enterprise AI Architecture
+- AI Governance
+- Legal AI
+- AI SaaS MVPs
+- AI Transformation for businesses
+
+## Current Learning & Experiments
+
+- Claude Code skills
+- AI productivity workflows
+- Prompt engineering systems
+- AI-powered MVP development
+
+## Connect
+
+- LinkedIn: add your LinkedIn link
+- Website: add your website
+- Email: add your email
+- Update profile README
