@@ -1,6 +1,6 @@
 # Hi, I'm Dr. Raj Singh 👋
 
-**AI Transformation Advisor | Enterprise AI Architect | Founder, UNS Technology & JurixAI**
+**AI Transformation Advisor | Enterprise AI Architect | Founder, UNS Technology & JurixAI | Author of AI – The Code of Why?**
 
 I help organizations move from AI curiosity to practical AI adoption through strategy, governance, architecture, training, and MVP implementation.
 
@@ -10,8 +10,10 @@ My focus is on building secure, scalable, and business-aligned AI systems across
 
 ## What I’m Building
 
-* **JurixAI** — an AI Legal Assistant for lawyers, SMEs, and legal teams
 * **UNS Technology** — AI SaaS, enterprise AI, and agentic AI product development
+
+* **JurixAI** — an AI Legal Assistant for lawyers, SMEs, and legal teams
+
 * **AI Adoption Frameworks** — practical guides for leaders, professionals, founders, and students
 
 ---
@@ -40,15 +42,15 @@ My focus is on building secure, scalable, and business-aligned AI systems across
 | [AI MVP Frameworks](https://github.com/rajbsingh/ai-mvp-frameworks) | Frameworks for planning, validating, and building AI SaaS MVPs |
 ---
 
+### UNS Technology
+
+UNS Technology focuses on AI transformation, AI SaaS products, enterprise AI architecture, and agentic AI workflows.
+
 ## Current AI Product Focus
 
 ### JurixAI
 
 JurixAI is being designed as an AI Legal Assistant to help legal professionals and businesses draft, review, summarize, and understand legal documents faster with risk flags, structured workflows, and trusted source-based outputs.
-
-### UNS Technology
-
-UNS Technology focuses on AI transformation, AI SaaS products, enterprise AI architecture, and agentic AI workflows.
 
 ---
 
